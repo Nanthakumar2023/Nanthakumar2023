@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Team leader: Nantha kumar.R
-Team member: santhosh kumar.M
-Team member: sasikumar.c
+Team leader  : Nantha kumar.R
+Team member 1: santhosh kumar.M
+Team member 2: sasikumar.c
